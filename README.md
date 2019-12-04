@@ -31,35 +31,35 @@ Before asking what this is, ask what is better than building things out of snow?
 
 So here you go, this is it.
 
-![]()
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/bloks2.png)
 
 You go and get a thing made according to the dimensions above at a place that makes inflatables that is likely in China, and you blow them up and then your kids laugh at how red your face is while they connect them together and make little forts, walls, roof things, half-assed tunnels, etc.
 
 Unboxing is amazing. Here is where a video should be with the hands and voice of some weird middle-aged guy describes opening and using a toy for the first time. You instead have these glamour product shots and my weird, middle-aged fingers typing at you telling you about this thing.
 
-![]()
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken1.jpg)
 
 Each blokken (I guess this is what these things are called right?) is small. 21 x 20 x 3.5 cm small in fact.  If you’re awesome you can actually fold it back up to this size so you don’t have these huge inflatable things lying around your cramped flat. This was the point of it by the way.
 
-![]()
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken2.jpg)
 
 Here’s the bit where I thought I was a total genius. A single blokken can fit in a standard (UK) letterbox. Winning.
 
 You have to obviously unfold it.
 
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken3.jpg)
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken4.jpg)
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken5.jpg)
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken6.jpg)
 Each blokken takes a non-smoking, middle-aged man of average to worsening health about 5 minutes to inflate manually. There are pumps for these sorts of things. It uses the same gauge as your average, run-of-the-mill pool floating thing.
 
-![]()
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken7.jpg)
 
 It’s not rocket science. You connect the blokken once inflated. I searched high and low thinking “hold on a darn second here, this has to exist already.” Sure enough I couldn’t find anything. Anyhow, you can make things like this. Or probably even cooler.
 
-![]()
+![](https://github.com/jkosem/stokken-blokken/blob/master/images/stokken-blokken8.jpg)
 
-It was going to be amazing.  Look AR even.
+There were also plans for some Augmented Reality applications, which mainly revolved around showing sharks and water or lava around wall-based configurations.
 
 ## Open Source Design
 
