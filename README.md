@@ -68,5 +68,7 @@ I “released” it. That was enough in the end. After years of languishing, mee
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 
-Oh well, my kids liked it for two seconds and that's all you can really ask. 
+Oh well, my kids liked it for two seconds and that's all you can really ask.
+
+Also if you're wondering if the name was directly inspired by and a really bad take on the name of an obscure Conan O'brian sketch from 20 years ago, it is.
 
