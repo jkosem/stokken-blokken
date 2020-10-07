@@ -1,3 +1,4 @@
+![Stokken-Blokken logo](images/logo.png)
 
 # Stokken-Blokken
 
